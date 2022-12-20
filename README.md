@@ -4,3 +4,5 @@
 This is a landing page for Horiseon SEO. This page was refactored with semantic HTML and repetitive code was removed. Navigate quickly through the page by clicking the links on the navbar (shown below). 
 
 <img src= "./assets/images/navbar.jpg" alt= "Navbar"> 
+
+**[deployed website](https://999888z.github.io/Challenge-1/)**
